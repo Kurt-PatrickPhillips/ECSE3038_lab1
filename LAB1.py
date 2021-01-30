@@ -5,11 +5,11 @@
 def hello():
     # this line displays the sentence
     print("ECSE3038 - Engineering IoT Systems")
+
+
 # Q2 Password Validation
 # more than 7 characters
 # atleast 2 numbers and alphanumeric
-
-
 def ValidatePassword(Pwrd):
     Inc = 0
 # password should be more than 7 characters and alphanumeric
@@ -27,7 +27,6 @@ def ValidatePassword(Pwrd):
 
 
 # Q3 Number addition
-
 def SumUpToN(num):
     digit = 0
     num = num+1
