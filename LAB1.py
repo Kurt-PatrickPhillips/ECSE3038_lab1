@@ -39,6 +39,7 @@ def SumUpToN(num):
             digit = digit+inc
     return digit
 
-    hello()
-    print(ValidatePassword(sadlkj876))
-    print(SumUpToN(21))
+
+hello()
+print(ValidatePassword("sadlkj876"))
+print(SumUpToN(21))
